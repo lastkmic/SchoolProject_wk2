@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* Full-Size Page */
+
+img {
+	max-width: 100%;
+	height: auto;
+	margin: 0 0 10px 0;
+}
+
+div.one-third {
+	width: 30%;
+	float: left;
+	margin-right: 5%;
+}
+
+div.last {
+	margin: 0;
+}
